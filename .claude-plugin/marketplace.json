@@ -1,7 +1,7 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "soal-project-work",
   "owner": {
-    "name": "Anthropic"
+    "name": "Soal Labs"
   },
   "plugins": [
     {
