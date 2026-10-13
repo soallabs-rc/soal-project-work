@@ -5,6 +5,8 @@ argument-hint: "<topic, problem, or idea to explore>"
 
 # /brainstorm
 
+> **Read [COMPANY.md](../COMPANY.md) first.** It has the Soal Labs context, how to identify the client engagement and Linear workspace, where to look for context (Fireflies first), and the house writing style. It overrides any generic guidance below.
+>
 > If you see unfamiliar placeholders or need to check which tools are connected, see [CONNECTORS.md](../CONNECTORS.md).
 
 Brainstorm a product topic with a sharp, opinionated thinking partner. This is a conversation, not a deliverable — the goal is to push thinking further than the PM would get alone.
@@ -106,10 +108,9 @@ Do not generate the summary unprompted mid-conversation. Only summarize when the
 ### 5. Follow Up
 
 After the session, offer:
-- "Want me to turn the top idea into a one-pager?" → `/one-pager` or `/write-spec`
+- "Want me to turn the top idea into a spec?" → `/write-spec`
 - "Want me to map this into an opportunity solution tree?"
-- "Want me to draft a research plan to test the riskiest assumption?" → `/synthesize-research`
-- "Want me to check how competitors approach this?" → `/competitive-brief`
+- "Want me to add this to the roadmap?" → `/roadmap-update`
 
 ## Tips
 

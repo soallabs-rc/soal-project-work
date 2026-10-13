@@ -6,6 +6,8 @@ argument-hint: "<feature or problem statement>"
 
 # Write Spec
 
+> **Read [COMPANY.md](../../COMPANY.md) first.** It has the Soal Labs context, how to identify the client engagement and Linear workspace, where to look for context (Fireflies first), and the house writing style. It overrides any generic guidance below.
+>
 > If you see unfamiliar placeholders or need to check which tools are connected, see [CONNECTORS.md](../../CONNECTORS.md).
 
 Write a feature specification or product requirements document (PRD).

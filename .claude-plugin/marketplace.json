@@ -76,7 +76,7 @@
       "name": "product-management",
       "displayName": "Product Management",
       "source": "./product-management",
-      "description": "Write feature specs, plan roadmaps, and synthesize user research faster. Keep stakeholders updated and stay ahead of the competitive landscape."
+      "description": "Soal Labs PM toolkit for client engagements: write specs, brainstorm, run one-week sprints (planning and closing), update roadmaps, review metrics, and keep client stakeholders updated. Built around Linear, Fireflies, and Slack."
     },
     {
       "name": "bio-research",
